@@ -1,4 +1,4 @@
-package com.springapps.firstapp.beans.conversationapp;
+package com.springapps.firstapp.conversationapp;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;

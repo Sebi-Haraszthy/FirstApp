@@ -1,4 +1,4 @@
-package com.springapps.firstapp.beans.conversationapp;
+package com.springapps.firstapp.conversationapp;
 
 public class Conversation {
     private final Person one;
